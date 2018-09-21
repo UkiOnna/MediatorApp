@@ -1,0 +1,6 @@
+c:\my documents\visual studio 2017\Projects\MediatorApp\MediatorApp\bin\Debug\MediatorApp.exe.config
+c:\my documents\visual studio 2017\Projects\MediatorApp\MediatorApp\bin\Debug\MediatorApp.exe
+c:\my documents\visual studio 2017\Projects\MediatorApp\MediatorApp\bin\Debug\MediatorApp.pdb
+c:\my documents\visual studio 2017\Projects\MediatorApp\MediatorApp\obj\Debug\MediatorApp.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\MediatorApp\MediatorApp\obj\Debug\MediatorApp.exe
+c:\my documents\visual studio 2017\Projects\MediatorApp\MediatorApp\obj\Debug\MediatorApp.pdb
